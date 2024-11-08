@@ -6,7 +6,7 @@ I'm a senior ML Engineer and Data Scientist working on complex AI business probl
 - ❤️ **Interpersonal Skills**: Problem-Solving, Analytical-Thinking, Self-Starter, Leader, Collaborative, Supportive, Committed
 
 
-Feel free to email me or connect with/message me on my [Linkedin](https://www.linkedin.com/in/hossein-basafa-90a11b144/) 🤗
+Feel free to email/message me or connect with me on my [Linkedin](https://www.linkedin.com/in/hossein-basafa-90a11b144/) 🤗
 
 <!--
 **hbasafa/hbasafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
