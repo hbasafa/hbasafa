@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Hossein Basafa.
-I'm a senior ML Engineer and Data Scientist working on complex AI business problems, and providing innovative solutions to facilitate workflows, development and productivity in modern enterprise. My expertise is in NLP, Speech Recognition, Chatbots, and Image processing leveraging cutting-edge ML and Deep Learning techniques. I'm particularly interested in developing ideas and building outstanding products.
+I'm a senior ML Engineer with more that 5 years experience working on complex AI business problems, and providing innovative solutions to facilitate workflows, development and productivity in modern enterprise. My expertise includes NLP, Speech Recognition, Chatbots, LLMs and formerly Image processing leveraging cutting-edge ML and Deep Learning techniques. I'm particularly interested in developing ideas and building outstanding products.
 
-- 💼 **Industrial Skills**: Machine Learning, Deep Learning, Natural Language Processing (NLP), Speech Recognition, Chatbot, Time Series Analysis, Computer Vision, MLOps, Data Science/Engineering, Software Development, CI/CD
-- 👨‍💻 **Major Tools**: Python, Java, C++, SQL, Pytorch, Tensorflow, HuggingFace, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Pytest, MLFlow, Airflow, Django, Flask, REST, Prometheus, Grafana, Docker, Gitlab-CI, OKD, AWS, GCP, Helm charts, Kubernetes, Seldon, Git, DVC, Linux
+- 💼 **Industrial Skills**:
+ * AI (Machine Learning, Deep Learning, MLOps, NLP, Speech Recognition, LLM, Chatbot),
+ * Software Engineering (System Design, CI/CD, Design Patterns, Tests, Monitoring, DevOps)
+- 👨‍💻 **Major Tools**: Python/AI (Pytorch, Tensorflow, Transformers, Scikit-Learn, Pandas, Numpy, Matplotlib, Spark, MLFlow, Airflow, Django, Flask), DevOps (Docker, Kubernetes, HelmCharts, OKD/OpenShift, AWS, GCP, Prometheus, Grafana, Gitlab-CI, Seldon), DataBase (SQL, MongoDB, PostgreSQL, ELK), Go, Java, Git, DVC, Linux
 - ❤️ **Interpersonal Skills**: Problem-Solving, Analytical-Thinking, Self-Starter, Leader, Collaborative, Supportive, Committed
 
 
