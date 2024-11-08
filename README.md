@@ -5,7 +5,7 @@ I'm a senior ML Engineer with more that 5 years experience working on complex AI
   - **AI**: Machine Learning, Deep Learning, MLOps, NLP, Speech Recognition, LLM, Chatbot,
   - **Software Engineering**: System Design, CI/CD, Design Patterns, Tests, Monitoring, DevOps
 - 👨‍💻 **Major Tools**:
-  - Python/AI: Pytorch, Tensorflow, Transformers, Scikit-Learn, Pandas, Numpy, Matplotlib, Spark, MLFlow, Airflow, Django, Flask,
+  - Python/AI: Pytorch, Tensorflow, Transformers, Scikit-Learn, Pandas, Numpy, Matplotlib, Spark, MLFlow, Airflow, Django,
   - DevOps: Docker, Kubernetes, HelmCharts, OKD/OpenShift, AWS, GCP, Prometheus, Grafana, Gitlab-CI, Seldon,
   - DataBase: SQL, MongoDB, PostgreSQL, ELK,
   - Other: Go, Java, Git, DVC, Linux
